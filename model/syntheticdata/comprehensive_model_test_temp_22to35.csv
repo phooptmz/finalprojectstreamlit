@@ -1,0 +1,1135 @@
+Person_Count,Movement_Level,OCI,delta_OCI,temp_indoor,humi_indoor,Predicted_Mode
+0,None,0.0,0.0132,22.0,60.0,Eco
+0,None,0.0,0.0083,23.0,60.0,Eco
+0,None,0.0,-0.0034,24.0,60.0,Eco
+0,None,0.0,0.002,25.0,60.0,Eco
+0,None,0.0,-0.0051,26.0,60.0,Eco
+0,None,0.0,0.0008,27.0,60.0,Eco
+0,None,0.0,0.0012,28.0,60.0,Eco
+0,None,0.0,0.0018,29.0,60.0,Eco
+0,None,0.0,-0.0054,30.0,60.0,Eco
+0,None,0.0,-0.0054,31.0,60.0,Eco
+0,None,0.0,-0.0028,32.0,60.0,Eco
+0,None,0.0,0.0021,33.0,60.0,Eco
+0,None,0.0,-0.003,34.0,60.0,Eco
+0,None,0.0,0.0057,35.0,60.0,Eco
+1,Low (Moving Little),0.2275,-0.0122,22.0,60.0,Eco
+1,Low (Moving Little),0.2275,-0.011,23.0,60.0,Eco
+1,Low (Moving Little),0.2275,0.0109,24.0,60.0,Eco
+1,Low (Moving Little),0.2275,0.0067,25.0,60.0,Eco
+1,Low (Moving Little),0.2275,-0.0261,26.0,60.0,Eco
+1,Low (Moving Little),0.2275,0.0208,27.0,60.0,Eco
+1,Low (Moving Little),0.2275,-0.008,28.0,60.0,Eco
+1,Low (Moving Little),0.2275,0.0039,29.0,60.0,Eco
+1,Low (Moving Little),0.2275,0.002,30.0,60.0,Eco
+1,Low (Moving Little),0.2275,0.022,31.0,60.0,Eco
+1,Low (Moving Little),0.2275,0.0072,32.0,60.0,Eco
+1,Low (Moving Little),0.2275,-0.0039,33.0,60.0,Eco
+1,Low (Moving Little),0.2275,-0.001,34.0,60.0,Eco
+1,Low (Moving Little),0.2275,-0.015,35.0,60.0,Eco
+1,High (Moving a Lot),0.4225,-0.0027,22.0,60.0,Normal
+1,High (Moving a Lot),0.4225,0.0235,23.0,60.0,Normal
+1,High (Moving a Lot),0.4225,0.0305,24.0,60.0,Normal
+1,High (Moving a Lot),0.4225,-0.0042,25.0,60.0,Normal
+1,High (Moving a Lot),0.4225,-0.0025,26.0,60.0,Normal
+1,High (Moving a Lot),0.4225,-0.0045,27.0,60.0,Normal
+1,High (Moving a Lot),0.4225,-0.0075,28.0,60.0,Normal
+1,High (Moving a Lot),0.4225,-0.0164,29.0,60.0,Normal
+1,High (Moving a Lot),0.4225,0.0176,30.0,60.0,Normal
+1,High (Moving a Lot),0.4225,0.0145,31.0,60.0,Normal
+1,High (Moving a Lot),0.4225,-0.0074,32.0,60.0,Normal
+1,High (Moving a Lot),0.4225,0.0111,33.0,60.0,Normal
+1,High (Moving a Lot),0.4225,0.0106,34.0,60.0,Normal
+1,High (Moving a Lot),0.4225,0.0043,35.0,60.0,Normal
+2,Low (Moving Little),0.24,0.0244,22.0,60.0,Eco
+2,Low (Moving Little),0.24,0.0084,23.0,60.0,Eco
+2,Low (Moving Little),0.24,-0.009,24.0,60.0,Eco
+2,Low (Moving Little),0.24,-0.0174,25.0,60.0,Eco
+2,Low (Moving Little),0.24,0.0028,26.0,60.0,Eco
+2,Low (Moving Little),0.24,0.0175,27.0,60.0,Eco
+2,Low (Moving Little),0.24,-0.0038,28.0,60.0,Eco
+2,Low (Moving Little),0.24,-0.0085,29.0,60.0,Eco
+2,Low (Moving Little),0.24,-0.0056,30.0,60.0,Eco
+2,Low (Moving Little),0.24,0.022,31.0,60.0,Eco
+2,Low (Moving Little),0.24,0.0019,32.0,60.0,Eco
+2,Low (Moving Little),0.24,-0.0232,33.0,60.0,Eco
+2,Low (Moving Little),0.24,0.0009,34.0,60.0,Eco
+2,Low (Moving Little),0.24,-0.0163,35.0,60.0,Eco
+2,High (Moving a Lot),0.435,0.0013,22.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0087,23.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0019,24.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0099,25.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0292,26.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0069,27.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0023,28.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0115,29.0,60.0,Normal
+2,High (Moving a Lot),0.435,-0.0126,30.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.008,31.0,60.0,Normal
+2,High (Moving a Lot),0.435,-0.018,32.0,60.0,Normal
+2,High (Moving a Lot),0.435,-0.0142,33.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0067,34.0,60.0,Normal
+2,High (Moving a Lot),0.435,0.0057,35.0,60.0,Normal
+3,Low (Moving Little),0.2525,-0.0161,22.0,60.0,Eco
+3,Low (Moving Little),0.2525,-0.0215,23.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0296,24.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0261,25.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0037,26.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0145,27.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0281,28.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0178,29.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0016,30.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0083,31.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0241,32.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0105,33.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0146,34.0,60.0,Eco
+3,Low (Moving Little),0.2525,0.0097,35.0,60.0,Eco
+3,High (Moving a Lot),0.4475,-0.0148,22.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.0009,23.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.0259,24.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.0353,25.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.0121,26.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.0429,27.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.0029,28.0,60.0,Normal
+3,High (Moving a Lot),0.4475,-0.0073,29.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.0177,30.0,60.0,Normal
+3,High (Moving a Lot),0.4475,0.019,31.0,60.0,Normal
+3,High (Moving a Lot),0.4475,-0.0117,32.0,60.0,Normal
+3,High (Moving a Lot),0.4475,-0.0125,33.0,60.0,Normal
+3,High (Moving a Lot),0.4475,-0.0082,34.0,60.0,Normal
+3,High (Moving a Lot),0.4475,-0.0244,35.0,60.0,Normal
+4,Low (Moving Little),0.265,-0.0175,22.0,60.0,Eco
+4,Low (Moving Little),0.265,0.0392,23.0,60.0,Eco
+4,Low (Moving Little),0.265,-0.0009,24.0,60.0,Eco
+4,Low (Moving Little),0.265,-0.003,25.0,60.0,Eco
+4,Low (Moving Little),0.265,0.0152,26.0,60.0,Eco
+4,Low (Moving Little),0.265,0.0295,27.0,60.0,Eco
+4,Low (Moving Little),0.265,0.0146,28.0,60.0,Eco
+4,Low (Moving Little),0.265,-0.0104,29.0,60.0,Eco
+4,Low (Moving Little),0.265,0.0113,30.0,60.0,Eco
+4,Low (Moving Little),0.265,-0.0153,31.0,60.0,Eco
+4,Low (Moving Little),0.265,0.0278,32.0,60.0,Eco
+4,Low (Moving Little),0.265,-0.0013,33.0,60.0,Eco
+4,Low (Moving Little),0.265,0.0152,34.0,60.0,Eco
+4,Low (Moving Little),0.265,-0.0133,35.0,60.0,Eco
+4,High (Moving a Lot),0.46,-0.0073,22.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0042,23.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0163,24.0,60.0,Normal
+4,High (Moving a Lot),0.46,0.0258,25.0,60.0,Normal
+4,High (Moving a Lot),0.46,0.0211,26.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0214,27.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0038,28.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0026,29.0,60.0,Normal
+4,High (Moving a Lot),0.46,0.0022,30.0,60.0,Normal
+4,High (Moving a Lot),0.46,0.0336,31.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0033,32.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0225,33.0,60.0,Normal
+4,High (Moving a Lot),0.46,-0.0128,34.0,60.0,Normal
+4,High (Moving a Lot),0.46,0.0027,35.0,60.0,Normal
+5,Low (Moving Little),0.2775,0.0027,22.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.0191,23.0,60.0,Eco
+5,Low (Moving Little),0.2775,0.0234,24.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.0036,25.0,60.0,Eco
+5,Low (Moving Little),0.2775,0.0087,26.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.0001,27.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.0244,28.0,60.0,Eco
+5,Low (Moving Little),0.2775,0.0086,29.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.0103,30.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.0141,31.0,60.0,Eco
+5,Low (Moving Little),0.2775,0.0059,32.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.0207,33.0,60.0,Eco
+5,Low (Moving Little),0.2775,-0.017,34.0,60.0,Eco
+5,Low (Moving Little),0.2775,0.0066,35.0,60.0,Eco
+5,High (Moving a Lot),0.4725,0.0086,22.0,60.0,Normal
+5,High (Moving a Lot),0.4725,0.0002,23.0,60.0,Normal
+5,High (Moving a Lot),0.4725,-0.0145,24.0,60.0,Normal
+5,High (Moving a Lot),0.4725,-0.0026,25.0,60.0,Normal
+5,High (Moving a Lot),0.4725,-0.0151,26.0,60.0,Normal
+5,High (Moving a Lot),0.4725,0.0088,27.0,60.0,Normal
+5,High (Moving a Lot),0.4725,0.0019,28.0,60.0,Normal
+5,High (Moving a Lot),0.4725,0.0067,29.0,60.0,Normal
+5,High (Moving a Lot),0.4725,0.0003,30.0,60.0,Normal
+5,High (Moving a Lot),0.4725,0.0156,31.0,60.0,Normal
+5,High (Moving a Lot),0.4725,-0.0008,32.0,60.0,Normal
+5,High (Moving a Lot),0.4725,0.0029,33.0,60.0,Normal
+5,High (Moving a Lot),0.4725,-0.0025,34.0,60.0,Normal
+5,High (Moving a Lot),0.4725,-0.0036,35.0,60.0,Normal
+6,Low (Moving Little),0.29,0.0118,22.0,60.0,Eco
+6,Low (Moving Little),0.29,0.019,23.0,60.0,Eco
+6,Low (Moving Little),0.29,-0.0053,24.0,60.0,Eco
+6,Low (Moving Little),0.29,-0.0012,25.0,60.0,Eco
+6,Low (Moving Little),0.29,-0.0195,26.0,60.0,Eco
+6,Low (Moving Little),0.29,-0.0043,27.0,60.0,Eco
+6,Low (Moving Little),0.29,0.0013,28.0,60.0,Eco
+6,Low (Moving Little),0.29,-0.0004,29.0,60.0,Eco
+6,Low (Moving Little),0.29,0.0348,30.0,60.0,Eco
+6,Low (Moving Little),0.29,0.0273,31.0,60.0,Eco
+6,Low (Moving Little),0.29,0.0124,32.0,60.0,Eco
+6,Low (Moving Little),0.29,-0.032,33.0,60.0,Eco
+6,Low (Moving Little),0.29,0.0002,34.0,60.0,Eco
+6,Low (Moving Little),0.29,0.0186,35.0,60.0,Eco
+6,High (Moving a Lot),0.485,-0.0097,22.0,60.0,Normal
+6,High (Moving a Lot),0.485,0.0086,23.0,60.0,Normal
+6,High (Moving a Lot),0.485,-0.0051,24.0,60.0,Normal
+6,High (Moving a Lot),0.485,0.0346,25.0,60.0,Normal
+6,High (Moving a Lot),0.485,-0.0011,26.0,60.0,Normal
+6,High (Moving a Lot),0.485,-0.0066,27.0,60.0,Normal
+6,High (Moving a Lot),0.485,-0.02,28.0,60.0,Normal
+6,High (Moving a Lot),0.485,0.0084,29.0,60.0,Normal
+6,High (Moving a Lot),0.485,0.0013,30.0,60.0,Normal
+6,High (Moving a Lot),0.485,0.0089,31.0,60.0,Normal
+6,High (Moving a Lot),0.485,0.0095,32.0,60.0,Normal
+6,High (Moving a Lot),0.485,0.0048,33.0,60.0,Normal
+6,High (Moving a Lot),0.485,-0.0144,34.0,60.0,Normal
+6,High (Moving a Lot),0.485,-0.0045,35.0,60.0,Normal
+7,Low (Moving Little),0.3025,-0.0209,22.0,60.0,Normal
+7,Low (Moving Little),0.3025,-0.0163,23.0,60.0,Normal
+7,Low (Moving Little),0.3025,-0.017,24.0,60.0,Eco
+7,Low (Moving Little),0.3025,0.0038,25.0,60.0,Normal
+7,Low (Moving Little),0.3025,-0.0011,26.0,60.0,Normal
+7,Low (Moving Little),0.3025,0.0234,27.0,60.0,Eco
+7,Low (Moving Little),0.3025,-0.0079,28.0,60.0,Normal
+7,Low (Moving Little),0.3025,0.0029,29.0,60.0,Normal
+7,Low (Moving Little),0.3025,0.0106,30.0,60.0,Eco
+7,Low (Moving Little),0.3025,-0.0052,31.0,60.0,Eco
+7,Low (Moving Little),0.3025,0.0326,32.0,60.0,Eco
+7,Low (Moving Little),0.3025,-0.0063,33.0,60.0,Eco
+7,Low (Moving Little),0.3025,0.0142,34.0,60.0,Eco
+7,Low (Moving Little),0.3025,0.0061,35.0,60.0,Normal
+7,High (Moving a Lot),0.4975,-0.0264,22.0,60.0,Normal
+7,High (Moving a Lot),0.4975,-0.0192,23.0,60.0,Normal
+7,High (Moving a Lot),0.4975,0.0064,24.0,60.0,Normal
+7,High (Moving a Lot),0.4975,-0.0253,25.0,60.0,Normal
+7,High (Moving a Lot),0.4975,-0.0037,26.0,60.0,Normal
+7,High (Moving a Lot),0.4975,0.005,27.0,60.0,Normal
+7,High (Moving a Lot),0.4975,-0.0213,28.0,60.0,Normal
+7,High (Moving a Lot),0.4975,-0.0145,29.0,60.0,Normal
+7,High (Moving a Lot),0.4975,-0.0143,30.0,60.0,Normal
+7,High (Moving a Lot),0.4975,0.0163,31.0,60.0,Normal
+7,High (Moving a Lot),0.4975,0.0184,32.0,60.0,Normal
+7,High (Moving a Lot),0.4975,0.0135,33.0,60.0,Normal
+7,High (Moving a Lot),0.4975,0.0035,34.0,60.0,Normal
+7,High (Moving a Lot),0.4975,0.0009,35.0,60.0,Normal
+8,Low (Moving Little),0.315,-0.0037,22.0,60.0,Normal
+8,Low (Moving Little),0.315,-0.0036,23.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0068,24.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0042,25.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0159,26.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0471,27.0,60.0,Normal
+8,Low (Moving Little),0.315,-0.0258,28.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0009,29.0,60.0,Normal
+8,Low (Moving Little),0.315,-0.0134,30.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0097,31.0,60.0,Normal
+8,Low (Moving Little),0.315,-0.0053,32.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0217,33.0,60.0,Normal
+8,Low (Moving Little),0.315,-0.0045,34.0,60.0,Normal
+8,Low (Moving Little),0.315,0.0198,35.0,60.0,Normal
+8,High (Moving a Lot),0.51,-0.0118,22.0,60.0,Normal
+8,High (Moving a Lot),0.51,-0.0026,23.0,60.0,Normal
+8,High (Moving a Lot),0.51,-0.0206,24.0,60.0,Normal
+8,High (Moving a Lot),0.51,0.0035,25.0,60.0,Normal
+8,High (Moving a Lot),0.51,0.0218,26.0,60.0,Normal
+8,High (Moving a Lot),0.51,0.0022,27.0,60.0,Normal
+8,High (Moving a Lot),0.51,0.0171,28.0,60.0,Normal
+8,High (Moving a Lot),0.51,-0.0133,29.0,60.0,Normal
+8,High (Moving a Lot),0.51,-0.0071,30.0,60.0,Normal
+8,High (Moving a Lot),0.51,-0.008,31.0,60.0,Normal
+8,High (Moving a Lot),0.51,-0.0089,32.0,60.0,Normal
+8,High (Moving a Lot),0.51,0.0021,33.0,60.0,Normal
+8,High (Moving a Lot),0.51,0.0068,34.0,60.0,Normal
+8,High (Moving a Lot),0.51,0.009,35.0,60.0,Normal
+9,Low (Moving Little),0.3275,-0.0073,22.0,60.0,Normal
+9,Low (Moving Little),0.3275,0.026,23.0,60.0,Normal
+9,Low (Moving Little),0.3275,0.0087,24.0,60.0,Normal
+9,Low (Moving Little),0.3275,-0.0166,25.0,60.0,Normal
+9,Low (Moving Little),0.3275,-0.0007,26.0,60.0,Normal
+9,Low (Moving Little),0.3275,0.0188,27.0,60.0,Normal
+9,Low (Moving Little),0.3275,-0.0024,28.0,60.0,Normal
+9,Low (Moving Little),0.3275,-0.0174,29.0,60.0,Normal
+9,Low (Moving Little),0.3275,0.0028,30.0,60.0,Normal
+9,Low (Moving Little),0.3275,-0.0082,31.0,60.0,Normal
+9,Low (Moving Little),0.3275,0.0098,32.0,60.0,Normal
+9,Low (Moving Little),0.3275,0.0169,33.0,60.0,Normal
+9,Low (Moving Little),0.3275,-0.0034,34.0,60.0,Normal
+9,Low (Moving Little),0.3275,0.0145,35.0,60.0,Normal
+9,High (Moving a Lot),0.5225,0.0079,22.0,60.0,Normal
+9,High (Moving a Lot),0.5225,0.0179,23.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0182,24.0,60.0,Normal
+9,High (Moving a Lot),0.5225,0.0209,25.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0027,26.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0074,27.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0126,28.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0019,29.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0181,30.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0134,31.0,60.0,Normal
+9,High (Moving a Lot),0.5225,-0.0028,32.0,60.0,Normal
+9,High (Moving a Lot),0.5225,0.0152,33.0,60.0,Normal
+9,High (Moving a Lot),0.5225,0.0031,34.0,60.0,Normal
+9,High (Moving a Lot),0.5225,0.0209,35.0,60.0,Normal
+10,Low (Moving Little),0.34,0.0366,22.0,60.0,Normal
+10,Low (Moving Little),0.34,0.0106,23.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.009,24.0,60.0,Normal
+10,Low (Moving Little),0.34,0.0029,25.0,60.0,Normal
+10,Low (Moving Little),0.34,0.0059,26.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0096,27.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0173,28.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0378,29.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0014,30.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0034,31.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0054,32.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0192,33.0,60.0,Normal
+10,Low (Moving Little),0.34,0.0205,34.0,60.0,Normal
+10,Low (Moving Little),0.34,-0.0064,35.0,60.0,Normal
+10,High (Moving a Lot),0.535,0.0112,22.0,60.0,Normal
+10,High (Moving a Lot),0.535,0.0018,23.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0195,24.0,60.0,Normal
+10,High (Moving a Lot),0.535,0.0083,25.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0174,26.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0147,27.0,60.0,Normal
+10,High (Moving a Lot),0.535,0.012,28.0,60.0,Normal
+10,High (Moving a Lot),0.535,0.0103,29.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0042,30.0,60.0,Normal
+10,High (Moving a Lot),0.535,0.0014,31.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0151,32.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0023,33.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0019,34.0,60.0,Normal
+10,High (Moving a Lot),0.535,-0.0114,35.0,60.0,Normal
+11,Low (Moving Little),0.3525,0.0095,22.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0098,23.0,60.0,Normal
+11,Low (Moving Little),0.3525,0.0057,24.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.012,25.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0067,26.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0051,27.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0066,28.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0007,29.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0197,30.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0369,31.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0315,32.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0216,33.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0168,34.0,60.0,Normal
+11,Low (Moving Little),0.3525,-0.0005,35.0,60.0,Normal
+11,High (Moving a Lot),0.5475,0.0223,22.0,60.0,Normal
+11,High (Moving a Lot),0.5475,0.0021,23.0,60.0,Normal
+11,High (Moving a Lot),0.5475,0.0209,24.0,60.0,Normal
+11,High (Moving a Lot),0.5475,0.0112,25.0,60.0,Normal
+11,High (Moving a Lot),0.5475,-0.0088,26.0,60.0,Normal
+11,High (Moving a Lot),0.5475,-0.0153,27.0,60.0,High
+11,High (Moving a Lot),0.5475,-0.0032,28.0,60.0,High
+11,High (Moving a Lot),0.5475,-0.0147,29.0,60.0,High
+11,High (Moving a Lot),0.5475,0.0127,30.0,60.0,High
+11,High (Moving a Lot),0.5475,0.0123,31.0,60.0,High
+11,High (Moving a Lot),0.5475,0.034,32.0,60.0,Normal
+11,High (Moving a Lot),0.5475,0.0097,33.0,60.0,High
+11,High (Moving a Lot),0.5475,0.0295,34.0,60.0,Normal
+11,High (Moving a Lot),0.5475,-0.0231,35.0,60.0,High
+12,Low (Moving Little),0.365,0.0067,22.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0196,23.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0235,24.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0069,25.0,60.0,Normal
+12,Low (Moving Little),0.365,-0.0011,26.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0161,27.0,60.0,Normal
+12,Low (Moving Little),0.365,-0.0123,28.0,60.0,Normal
+12,Low (Moving Little),0.365,-0.0104,29.0,60.0,Normal
+12,Low (Moving Little),0.365,-0.0057,30.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0148,31.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0066,32.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0083,33.0,60.0,Normal
+12,Low (Moving Little),0.365,0.0302,34.0,60.0,Normal
+12,Low (Moving Little),0.365,-0.007,35.0,60.0,Normal
+12,High (Moving a Lot),0.56,-0.0131,22.0,60.0,Normal
+12,High (Moving a Lot),0.56,-0.003,23.0,60.0,Normal
+12,High (Moving a Lot),0.56,0.0031,24.0,60.0,Normal
+12,High (Moving a Lot),0.56,-0.0046,25.0,60.0,Normal
+12,High (Moving a Lot),0.56,-0.0038,26.0,60.0,Normal
+12,High (Moving a Lot),0.56,-0.0155,27.0,60.0,High
+12,High (Moving a Lot),0.56,0.0127,28.0,60.0,High
+12,High (Moving a Lot),0.56,0.005,29.0,60.0,High
+12,High (Moving a Lot),0.56,0.01,30.0,60.0,High
+12,High (Moving a Lot),0.56,0.018,31.0,60.0,High
+12,High (Moving a Lot),0.56,-0.0016,32.0,60.0,High
+12,High (Moving a Lot),0.56,-0.0028,33.0,60.0,High
+12,High (Moving a Lot),0.56,0.013,34.0,60.0,High
+12,High (Moving a Lot),0.56,0.0306,35.0,60.0,High
+13,Low (Moving Little),0.3775,-0.0035,22.0,60.0,Normal
+13,Low (Moving Little),0.3775,0.0023,23.0,60.0,Normal
+13,Low (Moving Little),0.3775,-0.0176,24.0,60.0,Normal
+13,Low (Moving Little),0.3775,-0.0201,25.0,60.0,Normal
+13,Low (Moving Little),0.3775,0.0384,26.0,60.0,Normal
+13,Low (Moving Little),0.3775,-0.0081,27.0,60.0,Normal
+13,Low (Moving Little),0.3775,0.0014,28.0,60.0,Normal
+13,Low (Moving Little),0.3775,0.0214,29.0,60.0,Normal
+13,Low (Moving Little),0.3775,-0.0075,30.0,60.0,Normal
+13,Low (Moving Little),0.3775,-0.0089,31.0,60.0,Normal
+13,Low (Moving Little),0.3775,-0.0051,32.0,60.0,Normal
+13,Low (Moving Little),0.3775,0.0021,33.0,60.0,Normal
+13,Low (Moving Little),0.3775,-0.0182,34.0,60.0,Normal
+13,Low (Moving Little),0.3775,0.0076,35.0,60.0,Normal
+13,High (Moving a Lot),0.5725,0.0065,22.0,60.0,Normal
+13,High (Moving a Lot),0.5725,-0.0005,23.0,60.0,Normal
+13,High (Moving a Lot),0.5725,0.0163,24.0,60.0,Normal
+13,High (Moving a Lot),0.5725,-0.008,25.0,60.0,Normal
+13,High (Moving a Lot),0.5725,0.0149,26.0,60.0,Normal
+13,High (Moving a Lot),0.5725,-0.0168,27.0,60.0,High
+13,High (Moving a Lot),0.5725,0.0164,28.0,60.0,High
+13,High (Moving a Lot),0.5725,-0.0143,29.0,60.0,High
+13,High (Moving a Lot),0.5725,-0.0161,30.0,60.0,High
+13,High (Moving a Lot),0.5725,0.0149,31.0,60.0,High
+13,High (Moving a Lot),0.5725,-0.0007,32.0,60.0,High
+13,High (Moving a Lot),0.5725,-0.0023,33.0,60.0,High
+13,High (Moving a Lot),0.5725,0.0004,34.0,60.0,High
+13,High (Moving a Lot),0.5725,-0.0029,35.0,60.0,High
+14,Low (Moving Little),0.39,0.0099,22.0,60.0,Normal
+14,Low (Moving Little),0.39,-0.0004,23.0,60.0,Normal
+14,Low (Moving Little),0.39,0.0007,24.0,60.0,Normal
+14,Low (Moving Little),0.39,0.0057,25.0,60.0,Normal
+14,Low (Moving Little),0.39,-0.0,26.0,60.0,Normal
+14,Low (Moving Little),0.39,0.0074,27.0,60.0,Normal
+14,Low (Moving Little),0.39,0.0137,28.0,60.0,Normal
+14,Low (Moving Little),0.39,0.0013,29.0,60.0,Normal
+14,Low (Moving Little),0.39,0.0082,30.0,60.0,Normal
+14,Low (Moving Little),0.39,-0.0036,31.0,60.0,Normal
+14,Low (Moving Little),0.39,-0.0042,32.0,60.0,Normal
+14,Low (Moving Little),0.39,-0.0065,33.0,60.0,Normal
+14,Low (Moving Little),0.39,-0.0066,34.0,60.0,Normal
+14,Low (Moving Little),0.39,-0.0016,35.0,60.0,Normal
+14,High (Moving a Lot),0.585,0.0172,22.0,60.0,Normal
+14,High (Moving a Lot),0.585,0.0129,23.0,60.0,Normal
+14,High (Moving a Lot),0.585,-0.0088,24.0,60.0,Normal
+14,High (Moving a Lot),0.585,-0.006,25.0,60.0,Normal
+14,High (Moving a Lot),0.585,0.0129,26.0,60.0,Normal
+14,High (Moving a Lot),0.585,0.0059,27.0,60.0,High
+14,High (Moving a Lot),0.585,0.0013,28.0,60.0,High
+14,High (Moving a Lot),0.585,-0.0057,29.0,60.0,High
+14,High (Moving a Lot),0.585,0.0246,30.0,60.0,High
+14,High (Moving a Lot),0.585,0.0019,31.0,60.0,High
+14,High (Moving a Lot),0.585,-0.0033,32.0,60.0,High
+14,High (Moving a Lot),0.585,0.0104,33.0,60.0,High
+14,High (Moving a Lot),0.585,0.0011,34.0,60.0,High
+14,High (Moving a Lot),0.585,0.0267,35.0,60.0,High
+15,Low (Moving Little),0.4025,0.0086,22.0,60.0,Normal
+15,Low (Moving Little),0.4025,-0.0346,23.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0055,24.0,60.0,Normal
+15,Low (Moving Little),0.4025,-0.0236,25.0,60.0,Normal
+15,Low (Moving Little),0.4025,-0.0137,26.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0081,27.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0216,28.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0143,29.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0251,30.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0007,31.0,60.0,Normal
+15,Low (Moving Little),0.4025,-0.0323,32.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0125,33.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0162,34.0,60.0,Normal
+15,Low (Moving Little),0.4025,0.0081,35.0,60.0,Normal
+15,High (Moving a Lot),0.5975,-0.0045,22.0,60.0,Normal
+15,High (Moving a Lot),0.5975,-0.0039,23.0,60.0,Normal
+15,High (Moving a Lot),0.5975,0.0017,24.0,60.0,Normal
+15,High (Moving a Lot),0.5975,0.0273,25.0,60.0,Normal
+15,High (Moving a Lot),0.5975,-0.0218,26.0,60.0,Normal
+15,High (Moving a Lot),0.5975,-0.0038,27.0,60.0,High
+15,High (Moving a Lot),0.5975,0.006,28.0,60.0,High
+15,High (Moving a Lot),0.5975,-0.0375,29.0,60.0,High
+15,High (Moving a Lot),0.5975,-0.0246,30.0,60.0,High
+15,High (Moving a Lot),0.5975,-0.021,31.0,60.0,High
+15,High (Moving a Lot),0.5975,0.0121,32.0,60.0,High
+15,High (Moving a Lot),0.5975,0.0051,33.0,60.0,High
+15,High (Moving a Lot),0.5975,-0.0028,34.0,60.0,High
+15,High (Moving a Lot),0.5975,0.0146,35.0,60.0,High
+16,Low (Moving Little),0.415,-0.0001,22.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0118,23.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0313,24.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0074,25.0,60.0,Normal
+16,Low (Moving Little),0.415,0.005,26.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0204,27.0,60.0,Normal
+16,Low (Moving Little),0.415,-0.0155,28.0,60.0,Normal
+16,Low (Moving Little),0.415,-0.0104,29.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0037,30.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0179,31.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0154,32.0,60.0,Normal
+16,Low (Moving Little),0.415,0.0078,33.0,60.0,Normal
+16,Low (Moving Little),0.415,-0.0024,34.0,60.0,Normal
+16,Low (Moving Little),0.415,-0.0097,35.0,60.0,Normal
+16,High (Moving a Lot),0.61,-0.0259,22.0,60.0,Normal
+16,High (Moving a Lot),0.61,-0.0335,23.0,60.0,Normal
+16,High (Moving a Lot),0.61,0.0125,24.0,60.0,Normal
+16,High (Moving a Lot),0.61,0.0323,25.0,60.0,Normal
+16,High (Moving a Lot),0.61,0.0211,26.0,60.0,Normal
+16,High (Moving a Lot),0.61,-0.0331,27.0,60.0,High
+16,High (Moving a Lot),0.61,-0.0148,28.0,60.0,High
+16,High (Moving a Lot),0.61,-0.0024,29.0,60.0,High
+16,High (Moving a Lot),0.61,0.0199,30.0,60.0,High
+16,High (Moving a Lot),0.61,-0.0076,31.0,60.0,High
+16,High (Moving a Lot),0.61,-0.0021,32.0,60.0,High
+16,High (Moving a Lot),0.61,0.0156,33.0,60.0,High
+16,High (Moving a Lot),0.61,-0.0134,34.0,60.0,High
+16,High (Moving a Lot),0.61,0.0149,35.0,60.0,High
+17,Low (Moving Little),0.4275,-0.0024,22.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0018,23.0,60.0,Normal
+17,Low (Moving Little),0.4275,0.014,24.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0063,25.0,60.0,Normal
+17,Low (Moving Little),0.4275,0.0312,26.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0027,27.0,60.0,Normal
+17,Low (Moving Little),0.4275,0.0223,28.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0006,29.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0116,30.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0156,31.0,60.0,Normal
+17,Low (Moving Little),0.4275,0.0132,32.0,60.0,Normal
+17,Low (Moving Little),0.4275,0.0035,33.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0124,34.0,60.0,Normal
+17,Low (Moving Little),0.4275,-0.0003,35.0,60.0,Normal
+17,High (Moving a Lot),0.6225,-0.0393,22.0,60.0,Normal
+17,High (Moving a Lot),0.6225,0.0139,23.0,60.0,Normal
+17,High (Moving a Lot),0.6225,-0.0036,24.0,60.0,Normal
+17,High (Moving a Lot),0.6225,0.007,25.0,60.0,Normal
+17,High (Moving a Lot),0.6225,-0.0035,26.0,60.0,Normal
+17,High (Moving a Lot),0.6225,-0.0073,27.0,60.0,High
+17,High (Moving a Lot),0.6225,-0.0167,28.0,60.0,High
+17,High (Moving a Lot),0.6225,-0.0162,29.0,60.0,High
+17,High (Moving a Lot),0.6225,-0.0077,30.0,60.0,High
+17,High (Moving a Lot),0.6225,-0.009,31.0,60.0,High
+17,High (Moving a Lot),0.6225,0.0032,32.0,60.0,High
+17,High (Moving a Lot),0.6225,0.0003,33.0,60.0,High
+17,High (Moving a Lot),0.6225,-0.0052,34.0,60.0,High
+17,High (Moving a Lot),0.6225,-0.0025,35.0,60.0,High
+18,Low (Moving Little),0.44,-0.0011,22.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.015,23.0,60.0,Normal
+18,Low (Moving Little),0.44,0.0129,24.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.0068,25.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.0005,26.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.0007,27.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.0002,28.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.0072,29.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.003,30.0,60.0,Normal
+18,Low (Moving Little),0.44,0.0223,31.0,60.0,Normal
+18,Low (Moving Little),0.44,-0.0187,32.0,60.0,Normal
+18,Low (Moving Little),0.44,0.0359,33.0,60.0,Normal
+18,Low (Moving Little),0.44,0.0041,34.0,60.0,Normal
+18,Low (Moving Little),0.44,0.0209,35.0,60.0,Normal
+18,High (Moving a Lot),0.635,0.0129,22.0,60.0,Normal
+18,High (Moving a Lot),0.635,-0.0033,23.0,60.0,Normal
+18,High (Moving a Lot),0.635,0.0211,24.0,60.0,Normal
+18,High (Moving a Lot),0.635,-0.0192,25.0,60.0,Normal
+18,High (Moving a Lot),0.635,-0.0058,26.0,60.0,Normal
+18,High (Moving a Lot),0.635,0.0025,27.0,60.0,High
+18,High (Moving a Lot),0.635,-0.0044,28.0,60.0,High
+18,High (Moving a Lot),0.635,-0.0124,29.0,60.0,High
+18,High (Moving a Lot),0.635,-0.0098,30.0,60.0,High
+18,High (Moving a Lot),0.635,0.0127,31.0,60.0,High
+18,High (Moving a Lot),0.635,-0.0044,32.0,60.0,High
+18,High (Moving a Lot),0.635,-0.0125,33.0,60.0,High
+18,High (Moving a Lot),0.635,-0.0004,34.0,60.0,High
+18,High (Moving a Lot),0.635,0.0005,35.0,60.0,High
+19,Low (Moving Little),0.4525,-0.0209,22.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.0245,23.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.0051,24.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.0218,25.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.015,26.0,60.0,Normal
+19,Low (Moving Little),0.4525,0.0104,27.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.0008,28.0,60.0,Normal
+19,Low (Moving Little),0.4525,0.0111,29.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.0205,30.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.013,31.0,60.0,Normal
+19,Low (Moving Little),0.4525,0.0241,32.0,60.0,Normal
+19,Low (Moving Little),0.4525,0.0149,33.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.0199,34.0,60.0,Normal
+19,Low (Moving Little),0.4525,-0.0236,35.0,60.0,Normal
+19,High (Moving a Lot),0.6475,0.006,22.0,60.0,Normal
+19,High (Moving a Lot),0.6475,0.0041,23.0,60.0,Normal
+19,High (Moving a Lot),0.6475,-0.0065,24.0,60.0,Normal
+19,High (Moving a Lot),0.6475,0.035,25.0,60.0,Normal
+19,High (Moving a Lot),0.6475,-0.0064,26.0,60.0,Normal
+19,High (Moving a Lot),0.6475,0.0146,27.0,60.0,High
+19,High (Moving a Lot),0.6475,0.012,28.0,60.0,High
+19,High (Moving a Lot),0.6475,-0.0058,29.0,60.0,High
+19,High (Moving a Lot),0.6475,-0.0111,30.0,60.0,High
+19,High (Moving a Lot),0.6475,0.0224,31.0,60.0,High
+19,High (Moving a Lot),0.6475,-0.0086,32.0,60.0,High
+19,High (Moving a Lot),0.6475,0.0016,33.0,60.0,High
+19,High (Moving a Lot),0.6475,0.0127,34.0,60.0,High
+19,High (Moving a Lot),0.6475,-0.0097,35.0,60.0,High
+20,Low (Moving Little),0.465,-0.0048,22.0,60.0,Normal
+20,Low (Moving Little),0.465,-0.0004,23.0,60.0,Normal
+20,Low (Moving Little),0.465,0.0059,24.0,60.0,Normal
+20,Low (Moving Little),0.465,0.0061,25.0,60.0,Normal
+20,Low (Moving Little),0.465,0.0137,26.0,60.0,Normal
+20,Low (Moving Little),0.465,0.004,27.0,60.0,Normal
+20,Low (Moving Little),0.465,-0.0007,28.0,60.0,Normal
+20,Low (Moving Little),0.465,0.0199,29.0,60.0,Normal
+20,Low (Moving Little),0.465,0.0232,30.0,60.0,Normal
+20,Low (Moving Little),0.465,-0.0067,31.0,60.0,Normal
+20,Low (Moving Little),0.465,0.0026,32.0,60.0,Normal
+20,Low (Moving Little),0.465,-0.0035,33.0,60.0,Normal
+20,Low (Moving Little),0.465,-0.0185,34.0,60.0,Normal
+20,Low (Moving Little),0.465,0.0134,35.0,60.0,Normal
+20,High (Moving a Lot),0.66,0.008,22.0,60.0,Normal
+20,High (Moving a Lot),0.66,0.0062,23.0,60.0,Normal
+20,High (Moving a Lot),0.66,0.006,24.0,60.0,Normal
+20,High (Moving a Lot),0.66,0.0045,25.0,60.0,Normal
+20,High (Moving a Lot),0.66,0.0134,26.0,60.0,Normal
+20,High (Moving a Lot),0.66,-0.011,27.0,60.0,High
+20,High (Moving a Lot),0.66,-0.0259,28.0,60.0,High
+20,High (Moving a Lot),0.66,0.0174,29.0,60.0,High
+20,High (Moving a Lot),0.66,0.0098,30.0,60.0,High
+20,High (Moving a Lot),0.66,-0.0163,31.0,60.0,High
+20,High (Moving a Lot),0.66,0.0076,32.0,60.0,High
+20,High (Moving a Lot),0.66,0.0155,33.0,60.0,High
+20,High (Moving a Lot),0.66,0.0064,34.0,60.0,High
+20,High (Moving a Lot),0.66,-0.0071,35.0,60.0,High
+21,Low (Moving Little),0.4775,-0.0078,22.0,60.0,Normal
+21,Low (Moving Little),0.4775,-0.032,23.0,60.0,Normal
+21,Low (Moving Little),0.4775,-0.0214,24.0,60.0,Normal
+21,Low (Moving Little),0.4775,0.0198,25.0,60.0,Normal
+21,Low (Moving Little),0.4775,-0.0052,26.0,60.0,Normal
+21,Low (Moving Little),0.4775,0.0089,27.0,60.0,Normal
+21,Low (Moving Little),0.4775,-0.0142,28.0,60.0,Normal
+21,Low (Moving Little),0.4775,0.0175,29.0,60.0,Normal
+21,Low (Moving Little),0.4775,-0.0205,30.0,60.0,Normal
+21,Low (Moving Little),0.4775,0.0121,31.0,60.0,Normal
+21,Low (Moving Little),0.4775,-0.0045,32.0,60.0,Normal
+21,Low (Moving Little),0.4775,0.0397,33.0,60.0,Normal
+21,Low (Moving Little),0.4775,0.0253,34.0,60.0,Normal
+21,Low (Moving Little),0.4775,0.0045,35.0,60.0,Normal
+21,High (Moving a Lot),0.6725,-0.0163,22.0,60.0,Normal
+21,High (Moving a Lot),0.6725,0.0149,23.0,60.0,Normal
+21,High (Moving a Lot),0.6725,0.0037,24.0,60.0,Normal
+21,High (Moving a Lot),0.6725,-0.0043,25.0,60.0,Normal
+21,High (Moving a Lot),0.6725,-0.0113,26.0,60.0,Normal
+21,High (Moving a Lot),0.6725,-0.0057,27.0,60.0,High
+21,High (Moving a Lot),0.6725,-0.0032,28.0,60.0,High
+21,High (Moving a Lot),0.6725,0.0069,29.0,60.0,High
+21,High (Moving a Lot),0.6725,0.0,30.0,60.0,High
+21,High (Moving a Lot),0.6725,-0.0065,31.0,60.0,High
+21,High (Moving a Lot),0.6725,0.0155,32.0,60.0,High
+21,High (Moving a Lot),0.6725,-0.0056,33.0,60.0,High
+21,High (Moving a Lot),0.6725,-0.0052,34.0,60.0,High
+21,High (Moving a Lot),0.6725,0.0014,35.0,60.0,High
+22,Low (Moving Little),0.49,0.0262,22.0,60.0,Normal
+22,Low (Moving Little),0.49,-0.0118,23.0,60.0,Normal
+22,Low (Moving Little),0.49,0.0058,24.0,60.0,Normal
+22,Low (Moving Little),0.49,-0.0029,25.0,60.0,Normal
+22,Low (Moving Little),0.49,0.0,26.0,60.0,Normal
+22,Low (Moving Little),0.49,-0.0041,27.0,60.0,Normal
+22,Low (Moving Little),0.49,0.0192,28.0,60.0,Normal
+22,Low (Moving Little),0.49,-0.0055,29.0,60.0,Normal
+22,Low (Moving Little),0.49,0.0103,30.0,60.0,Normal
+22,Low (Moving Little),0.49,-0.0072,31.0,60.0,Normal
+22,Low (Moving Little),0.49,-0.0145,32.0,60.0,Normal
+22,Low (Moving Little),0.49,-0.0107,33.0,60.0,Normal
+22,Low (Moving Little),0.49,0.0015,34.0,60.0,Normal
+22,Low (Moving Little),0.49,0.0098,35.0,60.0,Normal
+22,High (Moving a Lot),0.685,0.0029,22.0,60.0,Normal
+22,High (Moving a Lot),0.685,-0.0067,23.0,60.0,Normal
+22,High (Moving a Lot),0.685,0.0024,24.0,60.0,Normal
+22,High (Moving a Lot),0.685,0.0209,25.0,60.0,Normal
+22,High (Moving a Lot),0.685,-0.0012,26.0,60.0,Normal
+22,High (Moving a Lot),0.685,-0.0215,27.0,60.0,High
+22,High (Moving a Lot),0.685,0.0083,28.0,60.0,High
+22,High (Moving a Lot),0.685,-0.0021,29.0,60.0,High
+22,High (Moving a Lot),0.685,0.0144,30.0,60.0,High
+22,High (Moving a Lot),0.685,0.0086,31.0,60.0,High
+22,High (Moving a Lot),0.685,0.0023,32.0,60.0,High
+22,High (Moving a Lot),0.685,-0.0031,33.0,60.0,High
+22,High (Moving a Lot),0.685,-0.0062,34.0,60.0,High
+22,High (Moving a Lot),0.685,0.0053,35.0,60.0,High
+23,Low (Moving Little),0.5025,0.0113,22.0,60.0,Normal
+23,Low (Moving Little),0.5025,0.0143,23.0,60.0,Normal
+23,Low (Moving Little),0.5025,-0.011,24.0,60.0,Normal
+23,Low (Moving Little),0.5025,0.0073,25.0,60.0,Normal
+23,Low (Moving Little),0.5025,-0.0275,26.0,60.0,Normal
+23,Low (Moving Little),0.5025,-0.0178,27.0,60.0,Normal
+23,Low (Moving Little),0.5025,-0.0277,28.0,60.0,Normal
+23,Low (Moving Little),0.5025,0.0192,29.0,60.0,Normal
+23,Low (Moving Little),0.5025,-0.0017,30.0,60.0,Normal
+23,Low (Moving Little),0.5025,0.0042,31.0,60.0,Normal
+23,Low (Moving Little),0.5025,-0.0013,32.0,60.0,Normal
+23,Low (Moving Little),0.5025,-0.0115,33.0,60.0,Normal
+23,Low (Moving Little),0.5025,0.0093,34.0,60.0,Normal
+23,Low (Moving Little),0.5025,0.0215,35.0,60.0,Normal
+23,High (Moving a Lot),0.6975,-0.012,22.0,60.0,Normal
+23,High (Moving a Lot),0.6975,0.0102,23.0,60.0,Normal
+23,High (Moving a Lot),0.6975,-0.0086,24.0,60.0,Normal
+23,High (Moving a Lot),0.6975,-0.0271,25.0,60.0,Normal
+23,High (Moving a Lot),0.6975,-0.0033,26.0,60.0,Normal
+23,High (Moving a Lot),0.6975,-0.0068,27.0,60.0,High
+23,High (Moving a Lot),0.6975,0.0126,28.0,60.0,High
+23,High (Moving a Lot),0.6975,-0.0262,29.0,60.0,High
+23,High (Moving a Lot),0.6975,0.022,30.0,60.0,High
+23,High (Moving a Lot),0.6975,-0.0075,31.0,60.0,High
+23,High (Moving a Lot),0.6975,-0.0026,32.0,60.0,High
+23,High (Moving a Lot),0.6975,-0.0124,33.0,60.0,High
+23,High (Moving a Lot),0.6975,0.0148,34.0,60.0,High
+23,High (Moving a Lot),0.6975,0.0087,35.0,60.0,High
+24,Low (Moving Little),0.515,-0.0165,22.0,60.0,Normal
+24,Low (Moving Little),0.515,0.003,23.0,60.0,Normal
+24,Low (Moving Little),0.515,-0.0003,24.0,60.0,Normal
+24,Low (Moving Little),0.515,-0.0036,25.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0009,26.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0013,27.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0117,28.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0086,29.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0067,30.0,60.0,Normal
+24,Low (Moving Little),0.515,-0.0451,31.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0034,32.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0033,33.0,60.0,Normal
+24,Low (Moving Little),0.515,0.0059,34.0,60.0,Normal
+24,Low (Moving Little),0.515,-0.0235,35.0,60.0,Normal
+24,High (Moving a Lot),0.71,0.0041,22.0,60.0,Normal
+24,High (Moving a Lot),0.71,-0.0222,23.0,60.0,Normal
+24,High (Moving a Lot),0.71,-0.0196,24.0,60.0,Normal
+24,High (Moving a Lot),0.71,0.0021,25.0,60.0,Normal
+24,High (Moving a Lot),0.71,-0.0009,26.0,60.0,Normal
+24,High (Moving a Lot),0.71,-0.0206,27.0,60.0,High
+24,High (Moving a Lot),0.71,0.025,28.0,60.0,High
+24,High (Moving a Lot),0.71,0.017,29.0,60.0,High
+24,High (Moving a Lot),0.71,-0.0029,30.0,60.0,High
+24,High (Moving a Lot),0.71,0.0041,31.0,60.0,High
+24,High (Moving a Lot),0.71,0.0225,32.0,60.0,High
+24,High (Moving a Lot),0.71,-0.0059,33.0,60.0,High
+24,High (Moving a Lot),0.71,0.0017,34.0,60.0,High
+24,High (Moving a Lot),0.71,-0.0079,35.0,60.0,High
+25,Low (Moving Little),0.5275,0.0126,22.0,60.0,Normal
+25,Low (Moving Little),0.5275,-0.0214,23.0,60.0,Normal
+25,Low (Moving Little),0.5275,0.0121,24.0,60.0,Normal
+25,Low (Moving Little),0.5275,-0.0062,25.0,60.0,Normal
+25,Low (Moving Little),0.5275,0.0012,26.0,60.0,Normal
+25,Low (Moving Little),0.5275,0.0009,27.0,60.0,Normal
+25,Low (Moving Little),0.5275,0.0023,28.0,60.0,Normal
+25,Low (Moving Little),0.5275,-0.0137,29.0,60.0,Normal
+25,Low (Moving Little),0.5275,0.0096,30.0,60.0,Normal
+25,Low (Moving Little),0.5275,-0.0217,31.0,60.0,Normal
+25,Low (Moving Little),0.5275,-0.013,32.0,60.0,Normal
+25,Low (Moving Little),0.5275,-0.0148,33.0,60.0,Normal
+25,Low (Moving Little),0.5275,0.0242,34.0,60.0,Normal
+25,Low (Moving Little),0.5275,-0.0035,35.0,60.0,Normal
+25,High (Moving a Lot),0.7225,-0.0196,22.0,60.0,Normal
+25,High (Moving a Lot),0.7225,-0.0089,23.0,60.0,Normal
+25,High (Moving a Lot),0.7225,0.0101,24.0,60.0,Normal
+25,High (Moving a Lot),0.7225,0.0127,25.0,60.0,Normal
+25,High (Moving a Lot),0.7225,0.018,26.0,60.0,Normal
+25,High (Moving a Lot),0.7225,0.0186,27.0,60.0,High
+25,High (Moving a Lot),0.7225,0.0141,28.0,60.0,High
+25,High (Moving a Lot),0.7225,0.0292,29.0,60.0,High
+25,High (Moving a Lot),0.7225,0.0189,30.0,60.0,High
+25,High (Moving a Lot),0.7225,-0.0059,31.0,60.0,High
+25,High (Moving a Lot),0.7225,0.0146,32.0,60.0,High
+25,High (Moving a Lot),0.7225,-0.0266,33.0,60.0,High
+25,High (Moving a Lot),0.7225,0.0106,34.0,60.0,High
+25,High (Moving a Lot),0.7225,0.0175,35.0,60.0,High
+26,Low (Moving Little),0.54,0.0107,22.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0081,23.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0035,24.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0001,25.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0047,26.0,60.0,Normal
+26,Low (Moving Little),0.54,0.0292,27.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0005,28.0,60.0,Normal
+26,Low (Moving Little),0.54,0.0174,29.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0011,30.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0134,31.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0169,32.0,60.0,Normal
+26,Low (Moving Little),0.54,0.0213,33.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0128,34.0,60.0,Normal
+26,Low (Moving Little),0.54,-0.0062,35.0,60.0,Normal
+26,High (Moving a Lot),0.735,-0.0073,22.0,60.0,Normal
+26,High (Moving a Lot),0.735,0.011,23.0,60.0,Normal
+26,High (Moving a Lot),0.735,-0.011,24.0,60.0,Normal
+26,High (Moving a Lot),0.735,-0.0078,25.0,60.0,Normal
+26,High (Moving a Lot),0.735,0.0105,26.0,60.0,Normal
+26,High (Moving a Lot),0.735,0.0093,27.0,60.0,High
+26,High (Moving a Lot),0.735,-0.023,28.0,60.0,High
+26,High (Moving a Lot),0.735,0.0175,29.0,60.0,High
+26,High (Moving a Lot),0.735,0.0025,30.0,60.0,High
+26,High (Moving a Lot),0.735,0.0031,31.0,60.0,High
+26,High (Moving a Lot),0.735,0.031,32.0,60.0,High
+26,High (Moving a Lot),0.735,0.0018,33.0,60.0,High
+26,High (Moving a Lot),0.735,0.0196,34.0,60.0,High
+26,High (Moving a Lot),0.735,-0.0106,35.0,60.0,High
+27,Low (Moving Little),0.5525,0.0,22.0,60.0,Normal
+27,Low (Moving Little),0.5525,0.0307,23.0,60.0,Normal
+27,Low (Moving Little),0.5525,0.0269,24.0,60.0,Normal
+27,Low (Moving Little),0.5525,0.0108,25.0,60.0,Normal
+27,Low (Moving Little),0.5525,0.0062,26.0,60.0,Normal
+27,Low (Moving Little),0.5525,0.0099,27.0,60.0,High
+27,Low (Moving Little),0.5525,0.0064,28.0,60.0,High
+27,Low (Moving Little),0.5525,-0.0011,29.0,60.0,High
+27,Low (Moving Little),0.5525,-0.0039,30.0,60.0,High
+27,Low (Moving Little),0.5525,-0.0063,31.0,60.0,High
+27,Low (Moving Little),0.5525,-0.019,32.0,60.0,High
+27,Low (Moving Little),0.5525,-0.0081,33.0,60.0,High
+27,Low (Moving Little),0.5525,0.0122,34.0,60.0,High
+27,Low (Moving Little),0.5525,-0.0076,35.0,60.0,Normal
+27,High (Moving a Lot),0.7475,-0.0005,22.0,60.0,Normal
+27,High (Moving a Lot),0.7475,0.0079,23.0,60.0,Normal
+27,High (Moving a Lot),0.7475,-0.0223,24.0,60.0,Normal
+27,High (Moving a Lot),0.7475,0.0102,25.0,60.0,Normal
+27,High (Moving a Lot),0.7475,0.0102,26.0,60.0,Normal
+27,High (Moving a Lot),0.7475,-0.0116,27.0,60.0,High
+27,High (Moving a Lot),0.7475,0.0219,28.0,60.0,High
+27,High (Moving a Lot),0.7475,0.0308,29.0,60.0,High
+27,High (Moving a Lot),0.7475,-0.0003,30.0,60.0,High
+27,High (Moving a Lot),0.7475,0.0009,31.0,60.0,High
+27,High (Moving a Lot),0.7475,-0.0076,32.0,60.0,High
+27,High (Moving a Lot),0.7475,-0.0001,33.0,60.0,High
+27,High (Moving a Lot),0.7475,-0.0037,34.0,60.0,High
+27,High (Moving a Lot),0.7475,0.0008,35.0,60.0,High
+28,Low (Moving Little),0.565,0.0309,22.0,60.0,Normal
+28,Low (Moving Little),0.565,0.0195,23.0,60.0,Normal
+28,Low (Moving Little),0.565,0.0232,24.0,60.0,Normal
+28,Low (Moving Little),0.565,0.0096,25.0,60.0,Normal
+28,Low (Moving Little),0.565,0.0037,26.0,60.0,Normal
+28,Low (Moving Little),0.565,0.0166,27.0,60.0,High
+28,Low (Moving Little),0.565,0.0141,28.0,60.0,High
+28,Low (Moving Little),0.565,-0.0002,29.0,60.0,High
+28,Low (Moving Little),0.565,0.0025,30.0,60.0,High
+28,Low (Moving Little),0.565,0.0182,31.0,60.0,High
+28,Low (Moving Little),0.565,-0.0182,32.0,60.0,High
+28,Low (Moving Little),0.565,-0.0049,33.0,60.0,High
+28,Low (Moving Little),0.565,0.0185,34.0,60.0,High
+28,Low (Moving Little),0.565,-0.0017,35.0,60.0,High
+28,High (Moving a Lot),0.76,0.0127,22.0,60.0,Normal
+28,High (Moving a Lot),0.76,0.004,23.0,60.0,Normal
+28,High (Moving a Lot),0.76,-0.0143,24.0,60.0,Normal
+28,High (Moving a Lot),0.76,-0.0003,25.0,60.0,Normal
+28,High (Moving a Lot),0.76,-0.003,26.0,60.0,Normal
+28,High (Moving a Lot),0.76,-0.0105,27.0,60.0,High
+28,High (Moving a Lot),0.76,0.0064,28.0,60.0,High
+28,High (Moving a Lot),0.76,-0.0138,29.0,60.0,High
+28,High (Moving a Lot),0.76,-0.0088,30.0,60.0,High
+28,High (Moving a Lot),0.76,0.0081,31.0,60.0,High
+28,High (Moving a Lot),0.76,0.0065,32.0,60.0,High
+28,High (Moving a Lot),0.76,0.0149,33.0,60.0,High
+28,High (Moving a Lot),0.76,-0.0023,34.0,60.0,High
+28,High (Moving a Lot),0.76,-0.0039,35.0,60.0,High
+29,Low (Moving Little),0.5775,0.0058,22.0,60.0,Normal
+29,Low (Moving Little),0.5775,0.0143,23.0,60.0,Normal
+29,Low (Moving Little),0.5775,-0.0078,24.0,60.0,Normal
+29,Low (Moving Little),0.5775,-0.008,25.0,60.0,Normal
+29,Low (Moving Little),0.5775,-0.0193,26.0,60.0,Normal
+29,Low (Moving Little),0.5775,0.0055,27.0,60.0,High
+29,Low (Moving Little),0.5775,-0.023,28.0,60.0,High
+29,Low (Moving Little),0.5775,-0.003,29.0,60.0,High
+29,Low (Moving Little),0.5775,-0.0039,30.0,60.0,High
+29,Low (Moving Little),0.5775,-0.0049,31.0,60.0,High
+29,Low (Moving Little),0.5775,-0.0117,32.0,60.0,High
+29,Low (Moving Little),0.5775,-0.0233,33.0,60.0,High
+29,Low (Moving Little),0.5775,-0.0071,34.0,60.0,High
+29,Low (Moving Little),0.5775,0.007,35.0,60.0,High
+29,High (Moving a Lot),0.7725,0.0067,22.0,60.0,Normal
+29,High (Moving a Lot),0.7725,0.0263,23.0,60.0,Normal
+29,High (Moving a Lot),0.7725,-0.0045,24.0,60.0,Normal
+29,High (Moving a Lot),0.7725,0.0142,25.0,60.0,Normal
+29,High (Moving a Lot),0.7725,0.0111,26.0,60.0,Normal
+29,High (Moving a Lot),0.7725,0.0015,27.0,60.0,High
+29,High (Moving a Lot),0.7725,-0.0068,28.0,60.0,High
+29,High (Moving a Lot),0.7725,-0.0205,29.0,60.0,High
+29,High (Moving a Lot),0.7725,0.0011,30.0,60.0,High
+29,High (Moving a Lot),0.7725,0.0015,31.0,60.0,High
+29,High (Moving a Lot),0.7725,-0.0057,32.0,60.0,High
+29,High (Moving a Lot),0.7725,0.0105,33.0,60.0,High
+29,High (Moving a Lot),0.7725,-0.0145,34.0,60.0,High
+29,High (Moving a Lot),0.7725,0.0125,35.0,60.0,High
+30,Low (Moving Little),0.59,-0.0113,22.0,60.0,Normal
+30,Low (Moving Little),0.59,0.0037,23.0,60.0,Normal
+30,Low (Moving Little),0.59,-0.0116,24.0,60.0,Normal
+30,Low (Moving Little),0.59,-0.0038,25.0,60.0,Normal
+30,Low (Moving Little),0.59,0.0035,26.0,60.0,Normal
+30,Low (Moving Little),0.59,-0.0094,27.0,60.0,High
+30,Low (Moving Little),0.59,-0.0056,28.0,60.0,High
+30,Low (Moving Little),0.59,-0.012,29.0,60.0,High
+30,Low (Moving Little),0.59,0.0351,30.0,60.0,High
+30,Low (Moving Little),0.59,-0.0173,31.0,60.0,High
+30,Low (Moving Little),0.59,-0.0035,32.0,60.0,High
+30,Low (Moving Little),0.59,0.0137,33.0,60.0,High
+30,Low (Moving Little),0.59,-0.0192,34.0,60.0,High
+30,Low (Moving Little),0.59,-0.0185,35.0,60.0,High
+30,High (Moving a Lot),0.785,0.0024,22.0,60.0,Normal
+30,High (Moving a Lot),0.785,0.0053,23.0,60.0,Normal
+30,High (Moving a Lot),0.785,0.0095,24.0,60.0,Normal
+30,High (Moving a Lot),0.785,-0.0049,25.0,60.0,Normal
+30,High (Moving a Lot),0.785,0.0061,26.0,60.0,Normal
+30,High (Moving a Lot),0.785,-0.0266,27.0,60.0,High
+30,High (Moving a Lot),0.785,-0.0314,28.0,60.0,High
+30,High (Moving a Lot),0.785,0.0095,29.0,60.0,High
+30,High (Moving a Lot),0.785,-0.0059,30.0,60.0,High
+30,High (Moving a Lot),0.785,-0.0127,31.0,60.0,High
+30,High (Moving a Lot),0.785,0.0168,32.0,60.0,High
+30,High (Moving a Lot),0.785,-0.0271,33.0,60.0,High
+30,High (Moving a Lot),0.785,-0.0085,34.0,60.0,High
+30,High (Moving a Lot),0.785,-0.0077,35.0,60.0,High
+31,Low (Moving Little),0.6025,0.0002,22.0,60.0,Normal
+31,Low (Moving Little),0.6025,-0.0117,23.0,60.0,Normal
+31,Low (Moving Little),0.6025,-0.0056,24.0,60.0,Normal
+31,Low (Moving Little),0.6025,0.0038,25.0,60.0,Normal
+31,Low (Moving Little),0.6025,-0.0025,26.0,60.0,Normal
+31,Low (Moving Little),0.6025,0.036,27.0,60.0,High
+31,Low (Moving Little),0.6025,0.0025,28.0,60.0,High
+31,Low (Moving Little),0.6025,0.0054,29.0,60.0,High
+31,Low (Moving Little),0.6025,0.0043,30.0,60.0,High
+31,Low (Moving Little),0.6025,-0.0089,31.0,60.0,High
+31,Low (Moving Little),0.6025,0.0058,32.0,60.0,High
+31,Low (Moving Little),0.6025,-0.009,33.0,60.0,High
+31,Low (Moving Little),0.6025,-0.0076,34.0,60.0,High
+31,Low (Moving Little),0.6025,-0.0113,35.0,60.0,High
+31,High (Moving a Lot),0.7975,-0.0064,22.0,60.0,Normal
+31,High (Moving a Lot),0.7975,-0.0162,23.0,60.0,Normal
+31,High (Moving a Lot),0.7975,0.016,24.0,60.0,Normal
+31,High (Moving a Lot),0.7975,0.0028,25.0,60.0,Normal
+31,High (Moving a Lot),0.7975,-0.0017,26.0,60.0,Normal
+31,High (Moving a Lot),0.7975,0.0039,27.0,60.0,High
+31,High (Moving a Lot),0.7975,0.0177,28.0,60.0,High
+31,High (Moving a Lot),0.7975,-0.0025,29.0,60.0,High
+31,High (Moving a Lot),0.7975,0.0165,30.0,60.0,High
+31,High (Moving a Lot),0.7975,-0.0042,31.0,60.0,High
+31,High (Moving a Lot),0.7975,0.0017,32.0,60.0,High
+31,High (Moving a Lot),0.7975,0.0116,33.0,60.0,High
+31,High (Moving a Lot),0.7975,0.0145,34.0,60.0,High
+31,High (Moving a Lot),0.7975,0.0021,35.0,60.0,High
+32,Low (Moving Little),0.615,0.0095,22.0,60.0,Normal
+32,Low (Moving Little),0.615,-0.0263,23.0,60.0,Normal
+32,Low (Moving Little),0.615,-0.0037,24.0,60.0,Normal
+32,Low (Moving Little),0.615,0.0179,25.0,60.0,Normal
+32,Low (Moving Little),0.615,-0.0077,26.0,60.0,Normal
+32,Low (Moving Little),0.615,0.0023,27.0,60.0,High
+32,Low (Moving Little),0.615,0.0237,28.0,60.0,High
+32,Low (Moving Little),0.615,0.0164,29.0,60.0,High
+32,Low (Moving Little),0.615,0.0101,30.0,60.0,High
+32,Low (Moving Little),0.615,0.0057,31.0,60.0,High
+32,Low (Moving Little),0.615,-0.0072,32.0,60.0,High
+32,Low (Moving Little),0.615,0.0163,33.0,60.0,High
+32,Low (Moving Little),0.615,0.007,34.0,60.0,High
+32,Low (Moving Little),0.615,-0.0327,35.0,60.0,High
+32,High (Moving a Lot),0.81,-0.015,22.0,60.0,Normal
+32,High (Moving a Lot),0.81,0.0002,23.0,60.0,Normal
+32,High (Moving a Lot),0.81,0.0029,24.0,60.0,Normal
+32,High (Moving a Lot),0.81,-0.0157,25.0,60.0,Normal
+32,High (Moving a Lot),0.81,-0.0272,26.0,60.0,Normal
+32,High (Moving a Lot),0.81,-0.0216,27.0,60.0,High
+32,High (Moving a Lot),0.81,0.0057,28.0,60.0,High
+32,High (Moving a Lot),0.81,0.0137,29.0,60.0,High
+32,High (Moving a Lot),0.81,-0.0162,30.0,60.0,High
+32,High (Moving a Lot),0.81,0.0145,31.0,60.0,High
+32,High (Moving a Lot),0.81,0.0265,32.0,60.0,High
+32,High (Moving a Lot),0.81,0.0002,33.0,60.0,High
+32,High (Moving a Lot),0.81,0.045,34.0,60.0,High
+32,High (Moving a Lot),0.81,0.002,35.0,60.0,High
+33,Low (Moving Little),0.6275,0.0106,22.0,60.0,Normal
+33,Low (Moving Little),0.6275,-0.023,23.0,60.0,Normal
+33,Low (Moving Little),0.6275,-0.008,24.0,60.0,Normal
+33,Low (Moving Little),0.6275,-0.0052,25.0,60.0,Normal
+33,Low (Moving Little),0.6275,-0.0121,26.0,60.0,Normal
+33,Low (Moving Little),0.6275,-0.0245,27.0,60.0,High
+33,Low (Moving Little),0.6275,-0.0084,28.0,60.0,High
+33,Low (Moving Little),0.6275,-0.0076,29.0,60.0,High
+33,Low (Moving Little),0.6275,-0.0139,30.0,60.0,High
+33,Low (Moving Little),0.6275,0.0113,31.0,60.0,High
+33,Low (Moving Little),0.6275,-0.0017,32.0,60.0,High
+33,Low (Moving Little),0.6275,-0.0576,33.0,60.0,High
+33,Low (Moving Little),0.6275,0.0179,34.0,60.0,High
+33,Low (Moving Little),0.6275,0.0089,35.0,60.0,High
+33,High (Moving a Lot),0.8225,0.0004,22.0,60.0,Normal
+33,High (Moving a Lot),0.8225,0.0116,23.0,60.0,Normal
+33,High (Moving a Lot),0.8225,0.0073,24.0,60.0,Normal
+33,High (Moving a Lot),0.8225,0.0022,25.0,60.0,Normal
+33,High (Moving a Lot),0.8225,-0.0066,26.0,60.0,Normal
+33,High (Moving a Lot),0.8225,-0.0349,27.0,60.0,High
+33,High (Moving a Lot),0.8225,-0.009,28.0,60.0,High
+33,High (Moving a Lot),0.8225,-0.0128,29.0,60.0,High
+33,High (Moving a Lot),0.8225,0.0095,30.0,60.0,High
+33,High (Moving a Lot),0.8225,-0.0067,31.0,60.0,High
+33,High (Moving a Lot),0.8225,0.0027,32.0,60.0,High
+33,High (Moving a Lot),0.8225,-0.0023,33.0,60.0,High
+33,High (Moving a Lot),0.8225,-0.0209,34.0,60.0,High
+33,High (Moving a Lot),0.8225,-0.0076,35.0,60.0,High
+34,Low (Moving Little),0.64,0.0153,22.0,60.0,Normal
+34,Low (Moving Little),0.64,-0.0047,23.0,60.0,Normal
+34,Low (Moving Little),0.64,0.0116,24.0,60.0,Normal
+34,Low (Moving Little),0.64,0.0256,25.0,60.0,Normal
+34,Low (Moving Little),0.64,0.0046,26.0,60.0,Normal
+34,Low (Moving Little),0.64,0.0094,27.0,60.0,High
+34,Low (Moving Little),0.64,-0.0014,28.0,60.0,High
+34,Low (Moving Little),0.64,-0.0087,29.0,60.0,High
+34,Low (Moving Little),0.64,-0.0205,30.0,60.0,High
+34,Low (Moving Little),0.64,-0.0055,31.0,60.0,High
+34,Low (Moving Little),0.64,-0.0089,32.0,60.0,High
+34,Low (Moving Little),0.64,0.0225,33.0,60.0,High
+34,Low (Moving Little),0.64,-0.0107,34.0,60.0,High
+34,Low (Moving Little),0.64,-0.0053,35.0,60.0,High
+34,High (Moving a Lot),0.835,-0.0089,22.0,60.0,Normal
+34,High (Moving a Lot),0.835,-0.017,23.0,60.0,Normal
+34,High (Moving a Lot),0.835,0.0047,24.0,60.0,Normal
+34,High (Moving a Lot),0.835,-0.0038,25.0,60.0,Normal
+34,High (Moving a Lot),0.835,-0.0016,26.0,60.0,Normal
+34,High (Moving a Lot),0.835,0.0153,27.0,60.0,High
+34,High (Moving a Lot),0.835,-0.0069,28.0,60.0,High
+34,High (Moving a Lot),0.835,-0.0013,29.0,60.0,High
+34,High (Moving a Lot),0.835,-0.0017,30.0,60.0,High
+34,High (Moving a Lot),0.835,-0.019,31.0,60.0,High
+34,High (Moving a Lot),0.835,-0.0177,32.0,60.0,High
+34,High (Moving a Lot),0.835,0.0031,33.0,60.0,High
+34,High (Moving a Lot),0.835,0.0189,34.0,60.0,High
+34,High (Moving a Lot),0.835,-0.0059,35.0,60.0,High
+35,Low (Moving Little),0.6525,0.0107,22.0,60.0,Normal
+35,Low (Moving Little),0.6525,0.0322,23.0,60.0,Normal
+35,Low (Moving Little),0.6525,0.0109,24.0,60.0,Normal
+35,Low (Moving Little),0.6525,-0.0193,25.0,60.0,Normal
+35,Low (Moving Little),0.6525,-0.0065,26.0,60.0,Normal
+35,Low (Moving Little),0.6525,0.0173,27.0,60.0,High
+35,Low (Moving Little),0.6525,0.0172,28.0,60.0,High
+35,Low (Moving Little),0.6525,0.0259,29.0,60.0,High
+35,Low (Moving Little),0.6525,-0.0344,30.0,60.0,High
+35,Low (Moving Little),0.6525,-0.0082,31.0,60.0,High
+35,Low (Moving Little),0.6525,-0.0371,32.0,60.0,High
+35,Low (Moving Little),0.6525,-0.0189,33.0,60.0,High
+35,Low (Moving Little),0.6525,0.0113,34.0,60.0,High
+35,Low (Moving Little),0.6525,-0.0046,35.0,60.0,High
+35,High (Moving a Lot),0.8475,-0.0009,22.0,60.0,Normal
+35,High (Moving a Lot),0.8475,-0.0008,23.0,60.0,Normal
+35,High (Moving a Lot),0.8475,-0.0075,24.0,60.0,Normal
+35,High (Moving a Lot),0.8475,0.0317,25.0,60.0,Normal
+35,High (Moving a Lot),0.8475,0.0029,26.0,60.0,Normal
+35,High (Moving a Lot),0.8475,-0.0173,27.0,60.0,High
+35,High (Moving a Lot),0.8475,-0.0221,28.0,60.0,High
+35,High (Moving a Lot),0.8475,0.0157,29.0,60.0,High
+35,High (Moving a Lot),0.8475,0.0239,30.0,60.0,High
+35,High (Moving a Lot),0.8475,-0.0232,31.0,60.0,High
+35,High (Moving a Lot),0.8475,0.003,32.0,60.0,High
+35,High (Moving a Lot),0.8475,0.0005,33.0,60.0,High
+35,High (Moving a Lot),0.8475,-0.005,34.0,60.0,High
+35,High (Moving a Lot),0.8475,0.0122,35.0,60.0,High
+36,Low (Moving Little),0.665,0.0095,22.0,60.0,Normal
+36,Low (Moving Little),0.665,-0.009,23.0,60.0,Normal
+36,Low (Moving Little),0.665,-0.0112,24.0,60.0,Normal
+36,Low (Moving Little),0.665,0.0022,25.0,60.0,Normal
+36,Low (Moving Little),0.665,0.0004,26.0,60.0,Normal
+36,Low (Moving Little),0.665,0.021,27.0,60.0,High
+36,Low (Moving Little),0.665,0.0097,28.0,60.0,High
+36,Low (Moving Little),0.665,-0.0017,29.0,60.0,High
+36,Low (Moving Little),0.665,0.0052,30.0,60.0,High
+36,Low (Moving Little),0.665,0.0249,31.0,60.0,High
+36,Low (Moving Little),0.665,-0.0235,32.0,60.0,High
+36,Low (Moving Little),0.665,-0.0129,33.0,60.0,High
+36,Low (Moving Little),0.665,0.0192,34.0,60.0,High
+36,Low (Moving Little),0.665,-0.0102,35.0,60.0,High
+36,High (Moving a Lot),0.86,-0.004,22.0,60.0,Normal
+36,High (Moving a Lot),0.86,0.0005,23.0,60.0,Normal
+36,High (Moving a Lot),0.86,0.0016,24.0,60.0,Normal
+36,High (Moving a Lot),0.86,-0.0038,25.0,60.0,Normal
+36,High (Moving a Lot),0.86,-0.0135,26.0,60.0,Normal
+36,High (Moving a Lot),0.86,0.0245,27.0,60.0,High
+36,High (Moving a Lot),0.86,-0.0053,28.0,60.0,High
+36,High (Moving a Lot),0.86,0.0147,29.0,60.0,High
+36,High (Moving a Lot),0.86,0.0011,30.0,60.0,High
+36,High (Moving a Lot),0.86,-0.0024,31.0,60.0,High
+36,High (Moving a Lot),0.86,0.0308,32.0,60.0,High
+36,High (Moving a Lot),0.86,0.0012,33.0,60.0,High
+36,High (Moving a Lot),0.86,-0.0161,34.0,60.0,High
+36,High (Moving a Lot),0.86,-0.0186,35.0,60.0,High
+37,Low (Moving Little),0.6775,-0.0022,22.0,60.0,Normal
+37,Low (Moving Little),0.6775,0.0038,23.0,60.0,Normal
+37,Low (Moving Little),0.6775,-0.0138,24.0,60.0,Normal
+37,Low (Moving Little),0.6775,0.0099,25.0,60.0,Normal
+37,Low (Moving Little),0.6775,0.0125,26.0,60.0,Normal
+37,Low (Moving Little),0.6775,0.0057,27.0,60.0,High
+37,Low (Moving Little),0.6775,0.0058,28.0,60.0,High
+37,Low (Moving Little),0.6775,-0.0142,29.0,60.0,High
+37,Low (Moving Little),0.6775,0.0237,30.0,60.0,High
+37,Low (Moving Little),0.6775,-0.0195,31.0,60.0,High
+37,Low (Moving Little),0.6775,-0.0014,32.0,60.0,High
+37,Low (Moving Little),0.6775,-0.0041,33.0,60.0,High
+37,Low (Moving Little),0.6775,-0.007,34.0,60.0,High
+37,Low (Moving Little),0.6775,-0.0073,35.0,60.0,High
+37,High (Moving a Lot),0.8725,-0.0095,22.0,60.0,Normal
+37,High (Moving a Lot),0.8725,0.0037,23.0,60.0,Normal
+37,High (Moving a Lot),0.8725,0.0052,24.0,60.0,Normal
+37,High (Moving a Lot),0.8725,-0.0056,25.0,60.0,Normal
+37,High (Moving a Lot),0.8725,0.0064,26.0,60.0,Normal
+37,High (Moving a Lot),0.8725,0.0181,27.0,60.0,High
+37,High (Moving a Lot),0.8725,-0.0153,28.0,60.0,High
+37,High (Moving a Lot),0.8725,-0.0229,29.0,60.0,High
+37,High (Moving a Lot),0.8725,0.0014,30.0,60.0,High
+37,High (Moving a Lot),0.8725,-0.0017,31.0,60.0,High
+37,High (Moving a Lot),0.8725,0.0027,32.0,60.0,High
+37,High (Moving a Lot),0.8725,-0.0246,33.0,60.0,High
+37,High (Moving a Lot),0.8725,-0.0049,34.0,60.0,High
+37,High (Moving a Lot),0.8725,-0.0179,35.0,60.0,High
+38,Low (Moving Little),0.69,0.0196,22.0,60.0,Normal
+38,Low (Moving Little),0.69,0.0029,23.0,60.0,Normal
+38,Low (Moving Little),0.69,0.0028,24.0,60.0,Normal
+38,Low (Moving Little),0.69,0.022,25.0,60.0,Normal
+38,Low (Moving Little),0.69,-0.013,26.0,60.0,Normal
+38,Low (Moving Little),0.69,-0.0014,27.0,60.0,High
+38,Low (Moving Little),0.69,-0.0087,28.0,60.0,High
+38,Low (Moving Little),0.69,0.0158,29.0,60.0,High
+38,Low (Moving Little),0.69,0.0093,30.0,60.0,High
+38,Low (Moving Little),0.69,0.0173,31.0,60.0,High
+38,Low (Moving Little),0.69,-0.0129,32.0,60.0,High
+38,Low (Moving Little),0.69,-0.0504,33.0,60.0,High
+38,Low (Moving Little),0.69,0.0048,34.0,60.0,High
+38,Low (Moving Little),0.69,0.0162,35.0,60.0,High
+38,High (Moving a Lot),0.885,-0.0058,22.0,60.0,Normal
+38,High (Moving a Lot),0.885,0.0286,23.0,60.0,Normal
+38,High (Moving a Lot),0.885,0.0147,24.0,60.0,Normal
+38,High (Moving a Lot),0.885,0.0146,25.0,60.0,Normal
+38,High (Moving a Lot),0.885,-0.0212,26.0,60.0,Normal
+38,High (Moving a Lot),0.885,-0.024,27.0,60.0,High
+38,High (Moving a Lot),0.885,0.0208,28.0,60.0,High
+38,High (Moving a Lot),0.885,0.0219,29.0,60.0,High
+38,High (Moving a Lot),0.885,-0.0076,30.0,60.0,High
+38,High (Moving a Lot),0.885,0.005,31.0,60.0,High
+38,High (Moving a Lot),0.885,-0.0013,32.0,60.0,High
+38,High (Moving a Lot),0.885,-0.0026,33.0,60.0,High
+38,High (Moving a Lot),0.885,0.0176,34.0,60.0,High
+38,High (Moving a Lot),0.885,-0.0138,35.0,60.0,High
+39,Low (Moving Little),0.7025,-0.0163,22.0,60.0,Normal
+39,Low (Moving Little),0.7025,-0.0159,23.0,60.0,Normal
+39,Low (Moving Little),0.7025,-0.0068,24.0,60.0,Normal
+39,Low (Moving Little),0.7025,0.0116,25.0,60.0,Normal
+39,Low (Moving Little),0.7025,0.0096,26.0,60.0,Normal
+39,Low (Moving Little),0.7025,-0.004,27.0,60.0,High
+39,Low (Moving Little),0.7025,-0.0198,28.0,60.0,High
+39,Low (Moving Little),0.7025,0.0209,29.0,60.0,High
+39,Low (Moving Little),0.7025,0.0086,30.0,60.0,High
+39,Low (Moving Little),0.7025,-0.0101,31.0,60.0,High
+39,Low (Moving Little),0.7025,-0.0077,32.0,60.0,High
+39,Low (Moving Little),0.7025,0.0097,33.0,60.0,High
+39,Low (Moving Little),0.7025,-0.0095,34.0,60.0,High
+39,Low (Moving Little),0.7025,-0.0162,35.0,60.0,High
+39,High (Moving a Lot),0.8975,0.0018,22.0,60.0,Normal
+39,High (Moving a Lot),0.8975,-0.009,23.0,60.0,Normal
+39,High (Moving a Lot),0.8975,-0.0096,24.0,60.0,Normal
+39,High (Moving a Lot),0.8975,0.0097,25.0,60.0,Normal
+39,High (Moving a Lot),0.8975,0.0037,26.0,60.0,Normal
+39,High (Moving a Lot),0.8975,-0.0342,27.0,60.0,High
+39,High (Moving a Lot),0.8975,0.0062,28.0,60.0,High
+39,High (Moving a Lot),0.8975,-0.0081,29.0,60.0,High
+39,High (Moving a Lot),0.8975,-0.0493,30.0,60.0,High
+39,High (Moving a Lot),0.8975,0.0268,31.0,60.0,High
+39,High (Moving a Lot),0.8975,-0.0087,32.0,60.0,High
+39,High (Moving a Lot),0.8975,0.0075,33.0,60.0,High
+39,High (Moving a Lot),0.8975,0.0091,34.0,60.0,High
+39,High (Moving a Lot),0.8975,0.0117,35.0,60.0,High
+40,Low (Moving Little),0.715,0.0159,22.0,60.0,Normal
+40,Low (Moving Little),0.715,0.0097,23.0,60.0,Normal
+40,Low (Moving Little),0.715,-0.0018,24.0,60.0,Normal
+40,Low (Moving Little),0.715,0.0204,25.0,60.0,Normal
+40,Low (Moving Little),0.715,-0.0275,26.0,60.0,Normal
+40,Low (Moving Little),0.715,-0.0014,27.0,60.0,High
+40,Low (Moving Little),0.715,-0.0218,28.0,60.0,High
+40,Low (Moving Little),0.715,-0.0156,29.0,60.0,High
+40,Low (Moving Little),0.715,-0.0013,30.0,60.0,High
+40,Low (Moving Little),0.715,0.0174,31.0,60.0,High
+40,Low (Moving Little),0.715,-0.0247,32.0,60.0,High
+40,Low (Moving Little),0.715,-0.0341,33.0,60.0,High
+40,Low (Moving Little),0.715,-0.0022,34.0,60.0,High
+40,Low (Moving Little),0.715,-0.006,35.0,60.0,High
+40,High (Moving a Lot),0.91,-0.0133,22.0,60.0,Normal
+40,High (Moving a Lot),0.91,0.016,23.0,60.0,Normal
+40,High (Moving a Lot),0.91,0.0072,24.0,60.0,Normal
+40,High (Moving a Lot),0.91,-0.0066,25.0,60.0,Normal
+40,High (Moving a Lot),0.91,-0.0202,26.0,60.0,Normal
+40,High (Moving a Lot),0.91,-0.0205,27.0,60.0,High
+40,High (Moving a Lot),0.91,-0.007,28.0,60.0,High
+40,High (Moving a Lot),0.91,-0.0029,29.0,60.0,High
+40,High (Moving a Lot),0.91,0.0304,30.0,60.0,High
+40,High (Moving a Lot),0.91,-0.0038,31.0,60.0,High
+40,High (Moving a Lot),0.91,-0.0021,32.0,60.0,High
+40,High (Moving a Lot),0.91,0.0138,33.0,60.0,High
+40,High (Moving a Lot),0.91,-0.0175,34.0,60.0,High
+40,High (Moving a Lot),0.91,-0.0087,35.0,60.0,High

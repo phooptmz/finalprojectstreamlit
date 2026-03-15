@@ -1,0 +1,26 @@
+{
+  "model_name": "XGBoost",
+  "best_params": {
+    "xgb__n_estimators": 100,
+    "xgb__max_depth": 5,
+    "xgb__learning_rate": 0.01,
+    "xgb__subsample": 0.8,
+    "xgb__colsample_bytree": 1.0
+  },
+  "metrics": {
+    "accuracy": 0.99125,
+    "precision": 0.9912529020102933,
+    "recall": 0.99125,
+    "f1_score": 0.9912512177875269,
+    "cv_mean": 0.9918145923603501,
+    "cv_std": 0.0006675364760298847
+  },
+  "training_time": 79.37889909744263,
+  "features": [
+    "OCI",
+    "delta_OCI",
+    "temp_indoor",
+    "humi_indoor"
+  ],
+  "timestamp": "2026-03-07 02:57:38"
+}
